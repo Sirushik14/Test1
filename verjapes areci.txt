@@ -1,0 +1,15 @@
+•	trained the staff of Statistics of Armenia and Kazakhstan within the framework of "DevInfo database management system" training coarses
+•	configured servers for installation of websites
+•	made tables for Armstatbank.am database by using the program PX-Edit
+•	operated the website armstat.am 
+
+
+
+•	Administrate the website armstat.am
+•	make and manage ational platform for SDG Indicators
+•	manage the platform CAPI/CAWI 
+•	make questionnaires for Collecting data on tablets in offline mode by using  Survey Solutions Designer
+
+
+Armenian Code Academy, Yerevan (Armenia) 7 month internship (JavaScript/ React JS) organized by BetConstruct in cooperation with
+ Armenian Code Academy
